@@ -12,3 +12,4 @@ The NPTEL Certificate Viewer allows users to view a certificate online through a
 ## 📂 Project Structure
 git add README.md
 git add certificate1.jpg
+git commit -m "Update README and add/update certificate1.jpg"
