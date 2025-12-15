@@ -3,4 +3,6 @@ git rm --cached certificate.jpg
 
 git commit -m "Remove certificate.jpg from repository"
 
+git rm certificate.jpg
+
 
