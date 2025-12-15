@@ -1,17 +1,13 @@
-# NPTEL Certificate Viewer
-
-This project is a simple web-based application to display an NPTEL course certificate using HTML and CSS.
-
-## 📌 Project Overview
-The NPTEL Certificate Viewer allows users to view a certificate online through a clean and responsive webpage. It is useful for showcasing academic achievements digitally.
-
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-
-## 📂 Project Structure
+# Stage the updated README
 git add README.md
+
+# Stage the new or updated certificate1.jpg
 git add certificate1.jpg
+
+# Commit the changes with a descriptive message
 git commit -m "Update README and add/update certificate1.jpg"
+
+# Push the commit to the main branch
 git push origin main
+
 
