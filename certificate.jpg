@@ -1,1 +1,3 @@
 git rm certificate.jpg
+git rm --cached certificate.jpg
+
