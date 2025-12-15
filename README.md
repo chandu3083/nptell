@@ -11,3 +11,4 @@ The NPTEL Certificate Viewer allows users to view a certificate online through a
 
 ## 📂 Project Structure
 git add README.md
+git add certificate1.jpg
